@@ -1,9 +1,6 @@
 {
   "name": "codefather",
   "version": "1.0.0",
-  "engines": {
-    "node": ">16.14.0 <17"
-  },
   "scripts": {
     "docs:dev": "vuepress dev .",
     "docs:build": "set NODE_OPTIONS=--openssl-legacy-provider --max_old_space_size=8192 && vuepress build ."
