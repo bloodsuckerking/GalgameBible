@@ -2,17 +2,17 @@
 permalink: /
 ---
 
-# 鱼皮的编程宝典
+# Bloodsucker King Galgame Bible
 
-> 贴心的编程学习路线，全面的编程知识百科
+> Bloodsucker King的知识百科
 >
-> 作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 作者：[Bloodsucker King](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
 ## 本站内容
 
-- [编程学习路线](/学习路线)
+- [GalgameBible](/Galbible)
 - [鱼皮的编程学习之路](/自学之路)
 - [编程干货分享](/编程分享)
 - [原创项目实战](/项目实战)
@@ -23,9 +23,9 @@ permalink: /
 - [作者介绍](/作者)
 
 
-## [编程学习路线](/学习路线)
+## [GalgameBible](/Galbible)
 
-包含 Java、前端、C++、Python、SQL、计算机基础、数据结构和算法、Git & GitHub、Linux、设计模式等多个精心编写的学习路线，帮助程序员快速入门。
+galgame杂谈，包括作者对galgame的感想
 
 ## [鱼皮的编程学习之路](/自学之路)
 

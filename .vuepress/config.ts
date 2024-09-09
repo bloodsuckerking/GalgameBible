@@ -10,7 +10,7 @@ const tags = ["galgame", "编程", "计算机"];
 
 export default defineConfig({
   title: "Bloodsucker King Galgame Bible",
-  description: "贴心的galgame学校网站，全面的galgame知识百科",
+  description: "Bloodsucker King的知识百科",
   head: [
     // 站点图标
     ["link", { rel: "icon", href: "/favicon.ico" }],
@@ -122,7 +122,7 @@ export default defineConfig({
 
     // GitHub 仓库位置
     repo: "bloodsuckerking/GalgameBible",
-    docsBranch: "master",
+    docsBranch: "main",
 
     // 编辑链接
     editLinks: true,

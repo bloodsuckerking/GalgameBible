@@ -1,7 +1,7 @@
 export default [
   "",
   {
-    title: "learn road",
+    title: "Galbible",
     collapsable: false,
     children: [
       "Java学习路线 by 程序员鱼皮.md",
