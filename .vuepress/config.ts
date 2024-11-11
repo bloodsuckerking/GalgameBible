@@ -9,7 +9,7 @@ const domain = "https://bkbible.online";
 const tags = ["galgame", "编程", "计算机"];
 
 export default defineConfig({
-  title: "Bloodsucker King Galgame Bible",
+  title: "Bloodsucker King Bible",
   description: "Bloodsucker King的知识百科",
   head: [
     // 站点图标

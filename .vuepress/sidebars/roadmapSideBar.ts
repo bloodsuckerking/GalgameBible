@@ -1,5 +1,5 @@
 export default [
-  "",
+  // "",
   {
     title: "Galbible",
     collapsable: false,
