@@ -6,27 +6,27 @@ export default {
   //   {
   //     label: "站长 - Bloodsucker King",
   //     // icon: "/icon/user.svg",
-  //     href: "https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah",
+  //     href: 
   //   },
   //   {
-  //     label: "鱼鸢网络",
-  //     href: "https://yuyuanweb.com/",
+  //     label: 
+  //     href: 
   //   },
   //   {
-  //     label: "老鱼简历",
-  //     href: "https://www.laoyujianli.com/",
+  //     label: 
+  //     href: 
   //   },
   //   {
-  //     label: "鱼聪明 AI",
-  //     href: "https://www.yucongming.com/",
+  //     label: 
+  //     href: 
   //   },
   //   {
-  //     label: "编程学习圈",
-  //     href: "https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde",
+  //     label: 
+  //     href: 
   //   },
   // ],
   // copyright: {
-  //   href: "https://beian.miit.gov.cn/",
-  //   name: "沪ICP备19026706号-6",
+  //   href: 
+  //   name: 
   // },
 };

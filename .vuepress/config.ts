@@ -5,7 +5,7 @@ import footer from "./footer";
 import extraSideBar from "./extraSideBar";
 
 const author = "Bloodsucker King";
-const domain = "https://bkgalgame.cn";
+const domain = "https://bkbible.online";
 const tags = ["galgame", "编程", "计算机"];
 
 export default defineConfig({
