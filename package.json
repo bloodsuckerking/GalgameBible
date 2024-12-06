@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "vuepress-plugin-code-copy": "^1.0.6",
-    "vuepress-plugin-img-lazy": "^1.0.4"
+    "vuepress-plugin-img-lazy": "^1.0.4",
+    "vuepress-plugin-live2d": "^0.0.7"
   }
 }

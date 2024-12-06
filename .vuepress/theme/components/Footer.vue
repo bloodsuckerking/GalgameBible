@@ -28,8 +28,8 @@ export default {
 
   props: ['sidebarItems'],
   mounted() {
-    this.footerList = this.$site.themeConfig.footer.friendLinks
-    this.government = this.$site.themeConfig.footer.copyright
+    // this.footerList = this.$site.themeConfig.footer.friendLinks
+    // this.government = this.$site.themeConfig.footer.copyright
     this.currentYear =  new Date().getFullYear()
   }
 }

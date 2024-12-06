@@ -23,6 +23,8 @@ export default defineConfig({
           "Bloodsucker King, galgame, 樱小路露娜",
       },
     ],
+    // 导入一个外部脚本
+    // ["script", { src: "https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js" }],
     // 百度统计
     
   ],
@@ -40,6 +42,14 @@ export default defineConfig({
   plugins: [
     ["@vuepress/back-to-top"],
     ["@vuepress/medium-zoom"],
+    [
+      "vuepress-plugin-live2d",
+      {
+        "modelName": "",
+        "mobileShow": true,
+        "postion": 'right'
+      }
+    ],
     // https://github.com/lorisleiva/vuepress-plugin-seo
     [
       "seo",

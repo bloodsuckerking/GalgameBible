@@ -49,6 +49,7 @@
        :page-sidebar-items="pageSidebarItems"
        :sidebar-items="sidebarItems"
     >
+    
       <slot
         name="page-sidebar-top"
         #top
@@ -60,7 +61,6 @@
     </PageSidebar>
   </div>
 </template>
-
 <script>
 import Home from '@theme/components/Home.vue'
 import Navbar from '@theme/components/Navbar.vue'
