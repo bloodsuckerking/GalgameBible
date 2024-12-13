@@ -12,14 +12,21 @@ permalink: /
 
 ## 本站内容
 
-- [GalBible](/galbible)
+- [GalBible](/Galbible)
+- [MagicManual](/MagicManual)
 - [作者介绍](/作者)
 
 
-## [GalBible](/galbible)
+## [GalBible](/Galbible)
 
-galgame杂谈，包括作者对galgame的感想
+galgame杂谈，包括作者对galgame的感想。
 
+**作为致力于成为galgame Master的吾，目标就是攻略10000名galgame女主。**
+
+
+## [MagicManual](/MagicManual)
+
+魔术师手册，包括魔术师的基本功法，以及一些常见的术式和技巧。
 
 ## [作者介绍](/作者)
 

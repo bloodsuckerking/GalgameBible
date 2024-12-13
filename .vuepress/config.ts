@@ -45,7 +45,7 @@ export default defineConfig({
     [
       "vuepress-plugin-live2d",
       {
-        "modelName": "",
+        "modelName": "z16",
         "mobileShow": true,
         "postion": 'right'
       }
