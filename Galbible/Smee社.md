@@ -1,6 +1,6 @@
 # Smee社
 
-> 本文作者：[Bloodsucker King]
+> 本文作者：Bloodsucker King
 >
 > 本站地址：[https://bkbible.online](https://bkbible.online)
 
