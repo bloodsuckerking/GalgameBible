@@ -12,8 +12,8 @@ permalink: /
 
 ## 本站内容
 
-- [GalBible](/Galbible)
-- [MagicManual](/MagicManual)
+- [GalBible](/Galbible/)
+- [MagicManual](/MagicManual/)
 - [作者介绍](/作者)
 
 

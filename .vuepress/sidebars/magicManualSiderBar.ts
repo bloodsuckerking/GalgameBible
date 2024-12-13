@@ -1,5 +1,4 @@
 export default [
-    // "",
     {
       title: "MagicManual",
       collapsable: true,
