@@ -13,7 +13,10 @@ export default [
       "柚子社.md",
       "国产.md",
       "AMUSECRAFT工作室.md",
-      "戏画社.md"
+      "戏画社.md",
+      "AKABEiSOFT3.md",
+      "调色板.md",
+      "minori.md"
     ],
   },
   
