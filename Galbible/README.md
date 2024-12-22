@@ -15,6 +15,10 @@
 [国产galgame](国产.md)<br/>
 [AMUSECRAFT工作室](AMUSECRAFT工作室.md)<br/>
 [戏画社](戏画社.md)<br/>
+[颜艺社](颜艺社.md)<br/>
+[AKABEiSOFT3](AKABEiSOFT3.md)<br/>
+[调色板](调色板.md)<br/>
+[minori](minori.md)<br/>
 
 ## [Smee社](Smee社.md)
 SMEE（日语：スメー）是日本的Galgame制作公司，作品以日常系恋爱喜剧系Gal<s>男女主相声</s>为主。于2007年成立，隶属于株式会社Robo Planning。[<sup>1</sup>](#refer-anchor-1)
@@ -60,10 +64,15 @@ YUZU SOFT（日文：ゆずソフト，中文：柚子社）是日本株式会�
 
 戏画及其子公司プレカノ于2022年11月22日宣布将于2023年3月31日起停止旗下作品的开发与发行。此后，母公司Entergram将原戏画的部分作品重制发布全年龄版。
 
+## [颜艺社](颜艺社.md)
+ASa Project（日语：アサプロジェクト）是日本的Galgame制作公司，隶属于Robo Planning，国内通称“颜艺社”。
+
+## [调色板](调色板.md)
+Palette（日语：ぱれっと）是隶属于CLEAR RAVE（日语：クリアレーヴ）的一个游戏品牌，通称“调色板”，代表作有9-nine-系列。
 
 ## 参考
 <a id="refer-anchor-1"></a>
-1. [萌娘百科](https://moegirl.uk/index.php?title=SMEE&variant=zh)
+1. [萌娘百科-smee](https://moegirl.uk/index.php?title=SMEE&variant=zh)
 <a id="refer-anchor-2"></a>
 2. [苍之彼方的四重奏官网](https://hikarifield.co.jp/aokana/spec.html)
 
