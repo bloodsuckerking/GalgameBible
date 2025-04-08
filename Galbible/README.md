@@ -9,6 +9,7 @@
 [SAGA PLANETS](SP社.md)<br/>
 [近月系列](近月系列.md)<br/>
 [精灵社](精灵社.md)<br/>
+[fairys](fairys.md)<br/>)
 [枕社](枕社.md)<br/>
 [Madosoft](Madosoft.md)<br/>
 [柚子社](柚子社.md)<br/>
@@ -19,6 +20,8 @@
 [AKABEiSOFT3](AKABEiSOFT3.md)<br/>
 [调色板](调色板.md)<br/>
 [minori](minori.md)<br/>
+[CUFFS](CUFFS.md)<br/>
+[UGUISU KAGURA](UGUISU_KAGURA.md)<br/>
 
 ## [Smee社](Smee社.md)
 SMEE（日语：スメー）是日本的Galgame制作公司，作品以日常系恋爱喜剧系Gal<s>男女主相声</s>为主。于2007年成立，隶属于株式会社Robo Planning。[<sup>1</sup>](#refer-anchor-1)
@@ -41,6 +44,9 @@ SAGA PLANETS于1998年创立，在2008年开始改以纯爱（虐心）为主。
 
 ## [精灵社](精灵社.md)
 sprite（精灵社[<sup>2</sup>](#refer-anchor-2)），又名“雪碧社”，是Rightway（株式会社アクセル）旗下的美少女游戏品牌，2010年1月建立。主要作品有《恋爱与选举与巧克力》和《苍之彼方的四重奏》，都已经动画化。
+
+## [fairys](fairys.md)
+fairys株式会社（日语：フェアリス株式会社）是Rightway Co.,Ltd旗下有限公司Axcel所属的一家视觉小说游戏制作公司。现已被FLEET收购而解散。
 
 ## [枕社](枕社.md)
 枕社即枕（Makura），是一家日本galgame制作工作室，成立于2005，主要出品文字冒险游戏。
@@ -69,6 +75,12 @@ ASa Project（日语：アサプロジェクト）是日本的Galgame制作公�
 
 ## [调色板](调色板.md)
 Palette（日语：ぱれっと）是隶属于CLEAR RAVE（日语：クリアレーヴ）的一个游戏品牌，通称“调色板”，代表作有9-nine-系列。
+
+## [CUFFS](CUFFS.md)
+株式会社CUFFS除去公司本社CUFFS外，旗下还有Sphere、CUBE、MintCUBE、Sonora四个姐妹社，姊妹社之间的画师，编剧和脚本有时会协同工作。 另有子品牌HULOTTE。
+
+## [UGUISU KAGURA](UGUISU_KAGURA.md)
+主要作品《纸上的魔法使》《水葬银币的伊斯特里亚》，别名纸魔社
 
 ## 参考
 <a id="refer-anchor-1"></a>

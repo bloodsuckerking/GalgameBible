@@ -8,6 +8,7 @@ export default [
       "SP社.md",
       "近月系列.md",
       "精灵社.md",
+      "fairys.md",
       "枕社.md",
       "Madosoft.md",
       "柚子社.md",
@@ -16,7 +17,9 @@ export default [
       "戏画社.md",
       "AKABEiSOFT3.md",
       "调色板.md",
-      "minori.md"
+      "minori.md",
+      "CUFFS.md",
+      "UGUISU_KAGURA.md"
     ],
   },
   
