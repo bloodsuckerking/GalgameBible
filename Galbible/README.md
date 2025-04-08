@@ -9,7 +9,7 @@
 [SAGA PLANETS](SP社.md)<br/>
 [近月系列](近月系列.md)<br/>
 [精灵社](精灵社.md)<br/>
-[fairys](fairys.md)<br/>)
+[fairys](fairys.md)<br/>
 [枕社](枕社.md)<br/>
 [Madosoft](Madosoft.md)<br/>
 [柚子社](柚子社.md)<br/>
