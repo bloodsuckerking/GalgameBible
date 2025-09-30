@@ -19,7 +19,8 @@ export default [
       "调色板.md",
       "minori.md",
       "CUFFS.md",
-      "UGUISU_KAGURA.md"
+      "UGUISU_KAGURA.md",
+      "Qruppo.md"
     ],
   },
   

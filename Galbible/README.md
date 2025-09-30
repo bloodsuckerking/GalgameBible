@@ -22,6 +22,7 @@
 [minori](minori.md)<br/>
 [CUFFS](CUFFS.md)<br/>
 [UGUISU KAGURA](UGUISU_KAGURA.md)<br/>
+[Qruppo](Qruppo.md)<br/>
 
 ## [Smee社](Smee社.md)
 SMEE（日语：スメー）是日本的Galgame制作公司，作品以日常系恋爱喜剧系Gal<s>男女主相声</s>为主。于2007年成立，隶属于株式会社Robo Planning。[<sup>1</sup>](#refer-anchor-1)
@@ -81,6 +82,9 @@ Palette（日语：ぱれっと）是隶属于CLEAR RAVE（日语：クリアレ
 
 ## [UGUISU KAGURA](UGUISU_KAGURA.md)
 主要作品《纸上的魔法使》《水葬银币的伊斯特里亚》，别名纸魔社
+
+## [Qruppo](Qruppo.md)
+自2014年2月19日起以同人社团はとのす式製作所 名义活动，于2018年3月31日成立美少女游戏品牌Qruppo。
 
 ## 参考
 <a id="refer-anchor-1"></a>
