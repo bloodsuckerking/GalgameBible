@@ -20,7 +20,8 @@ export default [
       "minori.md",
       "CUFFS.md",
       "UGUISU_KAGURA.md",
-      "Qruppo.md"
+      "Qruppo.md",
+      "Lump_of_Sugar.md"
     ],
   },
   
