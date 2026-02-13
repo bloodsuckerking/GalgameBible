@@ -1,7 +1,3 @@
----
-permalink: /
----
-
 # Bloodsucker King Bible
 
 > Bloodsucker King的知识百科
