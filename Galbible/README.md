@@ -23,7 +23,7 @@
 [CUFFS](CUFFS.md)<br/>
 [UGUISU KAGURA](UGUISU_KAGURA.md)<br/>
 [Qruppo](Qruppo.md)<br/>
-[Lump of Sugar](Lump_of_Sugar.md)<br/>
+[Lump of Sugar](LumpOfSugar.md)<br/>
 
 ## [Smee社](Smee社.md)
 SMEE（日语：スメー）是日本的Galgame制作公司，作品以日常系恋爱喜剧系Gal<s>男女主相声</s>为主。于2007年成立，隶属于株式会社Robo Planning。[<sup>1</sup>](#refer-anchor-1)
@@ -87,7 +87,7 @@ Palette（日语：ぱれっと）是隶属于CLEAR RAVE（日语：クリアレ
 ## [Qruppo](Qruppo.md)
 自2014年2月19日起以同人社团はとのす式製作所 名义活动，于2018年3月31日成立美少女游戏品牌Qruppo。
 
-## [Lump of Sugar](Lump_of_Sugar.md)
+## [Lump of Sugar](LumpOfSugar.md)
 Lump of Sugar（方糖社）是日本一家以奇幻恋爱题材为主的GalGame制作公司，成立于2005年4月。公司核心原画师为萌木原文武，代表作品包括《游魂》系列、《Hello,good-bye》等，主要制作成员涵盖制作人“かわうそ”、监督神无月梢及剧本团队史方千寻、てつじん等。
 
 2005年以处女作《Nursery Rhyme》确立风格，2008年凭借《游魂 -Kiss on my Deity-》扩展系列衍生作。2010年起尝试多样化转型，推出《学☆王》《Magical Charming！》等校园题材作品，并引入梱枝りこ等新原画师。2014年后持续融合奇幻与日常元素，创作《世界と世界の真ん中で》《恋想リレーション》等作品。2022年起推出《雪境迷途遇仙踪》《炼爱秘仪》等新作，保持稳定的创作周期与国际化发行策略。
