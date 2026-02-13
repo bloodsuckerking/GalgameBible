@@ -6,7 +6,7 @@
     "docs:build": "NODE_OPTIONS='--openssl-legacy-provider --max_old_space_size=8192' vuepress build ."
   },
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   },
   "license": "MIT",
   "devDependencies": {
