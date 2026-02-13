@@ -5,6 +5,9 @@
     "docs:dev": "vuepress dev .",
     "docs:build": "NODE_OPTIONS='--openssl-legacy-provider --max_old_space_size=8192' vuepress build ."
   },
+  "engines": {
+    "node": "18.x"
+  },
   "license": "MIT",
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.15",
