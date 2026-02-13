@@ -21,7 +21,7 @@ export default [
       "CUFFS.md",
       "UGUISU_KAGURA.md",
       "Qruppo.md",
-      "Lump_of_Sugar.md",
+      "LumpOfSugar.md",
     ],
   },
   
